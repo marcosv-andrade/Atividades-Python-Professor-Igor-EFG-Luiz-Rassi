@@ -14,7 +14,9 @@ Aqui serão organizadas as atividades realizadas durante o curso, reunindo exerc
 
 ## 📂 Organização
 
-- **`aula-2.2/`** — questões individuais da Aula 2.2 (Q6 a Q20), um arquivo por questão.
-- **`atividade-2-e-posteriores/`** — lista resolvida em arquivo único com as questões 8 a 20.
+Todas as atividades ficam na pasta **`atividades/`**:
+
+- `Aula2.2Q-6.py` a `Aula2.2Q-20.py` — questões individuais da Aula 2.2, um arquivo por questão.
+- `questoes-8-a-20.py` — lista resolvida em arquivo único com as questões 8 a 20.
 
 > Repositório de estudos e atividades do curso de Python.
