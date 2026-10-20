@@ -1,0 +1,2 @@
+# 10 Impressao Multipla: Use um unico comando print() para exibit tres itens de um iventario(ex:(Espada, Escudo, Poçao) em linhas diferentes ou separadas por virgulas;
+print(f"Seus itens são:, \n Espada Ferro Reforçado \n Escudo de Tiamat \n Poção Superior +10 \n Armadura de Escama de Dragão Lendario \n Cajado de Mago Lendário reforçado +5")
